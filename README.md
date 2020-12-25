@@ -1,2 +1,2 @@
 # Dadata
-Web page using DaData service
+Web page using Bootstrap and DaData service
